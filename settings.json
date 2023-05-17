@@ -1,0 +1,62 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "yaml.schemas": {
+        "file:///home/muhammadhaiderzaidi/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "notebook.lineNumbers": "on",
+    "files.autoSave": "afterDelay",
+    "jupyter.askForKernelRestart": false,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "markdown-preview-github-styles.colorTheme": "dark",
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "workbench.colorCustomizations": {
+        "[Default High Contrast]": {
+    
+            "activityBar.activeBorder": "#7c0000",
+            "activityBar.dropBorder": "#7c0000",
+            "activityBar.foreground": "#7c0000",
+            "activityBar.activeFocusBorder": "#7c0000",
+            "activityBarBadge.foreground": "#7c0000",
+            "focusBorder": "#7c0000",
+            "menu.border": "#7c0000",
+            "panel.border": "#7c0000",
+            "tab.border": "#7c0000",
+            "terminal.border": "#7c0000",
+            "sideBar.border": "#7c0000",
+            "statusBar.border": "#7c0000",
+            "sash.hoverBorder": "#7c0000",
+            "activityBar.border": "#7c0000",
+            "scrollbarSlider.activeBackground": "#420000",
+            "scrollbarSlider.hoverBackground": "#7c0000",
+            "scrollbarSlider.background": "#7c0000",
+            "titleBar.border": "#7c0000",
+            "peekView.border": "#7c0000",
+            "editorInfo.border": "#7c0000",
+            "input.border": "#7c0000",
+            "button.border": "#7c0000",
+            "editorGroup.border": "#7c0000",
+            "dropdown.border": "#7c0000",
+            "panelInput.border": "#7c0000",
+            "merge.border": "#7c0000",
+            "diffEditor.border": "#7c0000",
+            "notebook.cellBorderColor": "#7c0000",
+            "list.focusOutline": "#7c0000",
+            "checkbox.border": "#7c0000",
+            "tab.activeBorder": "#7c0000",
+            "panelSection.border": "#7c0000",
+            "panelTitle.activeBorder": "#7c0000",
+            "window.activeBorder": "#7c0000",
+            "editorWidget.border": "#7c0000",
+            "editorOverviewRuler.border": "#7c0000",
+            "breadcrumb.activeSelectionForeground": "#7c0000",
+            "editorGroupHeader.border": "#7c0000",
+            "sideBarSectionHeader.border": "#7c0000",
+        }
+    },
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false
+}
